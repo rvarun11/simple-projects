@@ -1,10 +1,10 @@
 # simple-projects
 
-##### 1. c project
+##### 1. C project
 
 A simple file handling project where users sign up and then are matched with other users based on their age and hobbies
 
-##### 2. restaurant website
+##### 2. Restaurant website
 
 A simple HTML and CSS website consisting of various pages like Home,About Us, Menu section and a Contact Us section.
 
