@@ -1,0 +1,12 @@
+varun	var	20	M	Noida	3
+ritika	rit	19	F	Saharanpur	4
+rahul	rah	19	M	Chennai	2
+ananya	ana	19	F	Ghaziabad	1
+anushka	anu	20	F	Chennai	3
+sarthak	sar	19	M	Ghaziabad	1
+ravin	rav	20	M	Delhi	2
+shreya	shr	20	F	Banaras	4
+ayush	ayu	20	M	Vellore	5
+vipul	vip	23	M	Noida	2
+ravi	rav	20	M	Azamgarh	3
+raghav	rag	19	M	Saharanpur	3
