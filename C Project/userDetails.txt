@@ -10,3 +10,4 @@ ayush	ayu	20	M	Vellore	5
 vipul	vip	23	M	Noida	2
 ravi	rav	20	M	Azamgarh	3
 raghav	rag	19	M	Saharanpur	3
+pranjal	pra	20	M	Noida	3

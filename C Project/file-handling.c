@@ -209,10 +209,9 @@ system("cls");
 void matchmaking(char cUsername[20],int cAge,char cGender,char cLocation[20],int cHobby){
     int phoneNumber,fChoice,testcount=0,flag=1,usersMatched=0;
 
-  phoneNumber = rand() % 90000000000 + 9999999999;
-
     rewind(fp);
   while(scanUserdata){
+        phoneNumber = rand() % 90000000000 + 9999999999;
    if ((strcmp(cUsername,u[testcount].username)!=0) && (cAge == u[testcount].age || (cAge+10>=u[testcount].age || cAge+10<=u[testcount].age) || (cAge+10>=u[testcount].age ||
 cAge+10<=u[testcount].age)) && (cHobby==u[testcount].hobby) ) {
         printf("\n\t\tWe have found a friend for you. Their name is %s\n", u[testcount].username);
