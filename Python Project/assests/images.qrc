@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="assests">
+    <file>insta.png</file>
+    <file>snap.png</file>
+    <file>twitter.png</file>
+    <file>youtube.png</file>
+    <file>googlePlus.png</file>
+    <file>products/p1.png</file>
+    <file>products/p2.png</file>
+    <file>products/p3.png</file>
+    <file>products/p4.png</file>
+    <file>products/p6.png</file>
+    <file>products/p10.png</file>
+    <file>products/p4.png</file>
+    <file>products/p5.png</file>
+    <file>products/p7.png</file>
+    <file>products/p8.png</file>
+    <file>products/p9.png</file>
+    <file>fb.png</file>
+    <file>image1.png</file>
+    <file>shopbag.png</file>
+  </qresource>
+</RCC>
